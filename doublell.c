@@ -1,6 +1,6 @@
-/*17) Double linked list creation and printing forward and reverse direction
-18) Insert a new node at a given position
-19) Delete a node with a given key*/
+/*Double linked list creation and printing forward and reverse direction
+ Insert a new node at a given position
+ Delete a node with a given key*/
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct number
